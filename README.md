@@ -35,7 +35,7 @@ I’m passionate about building high-quality web applications and love diving de
 ---
 
 ### 💼 Experience  
-- **Internship at [House of X](https://houseofx.in* 🚀  
+- **Internship at https://houseofx.in/ 🚀  
 
 ---
 
