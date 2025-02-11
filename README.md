@@ -40,8 +40,8 @@ I’m passionate about building high-quality web applications and love diving de
 ---
 
 ### 🚀 What I’m Up To  
-- Currently enhancing my full-stack skills 💡  
-- Exploring Web3 & Blockchain technologies  
+- Currently enhancing my full-stack skills 💡
+- Leaning AI and advance concepts of web dev
 - Open to collaborations on exciting projects!  
 
 ---
