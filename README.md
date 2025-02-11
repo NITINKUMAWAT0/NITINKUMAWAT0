@@ -35,7 +35,7 @@ I’m passionate about building high-quality web applications and love diving de
 ---
 
 ### 💼 Experience  
-- **Internship at https://houseofx.in/ 🚀  
+- Internship at https://houseofx.in/ 🚀  
 
 ---
 
@@ -47,6 +47,6 @@ I’m passionate about building high-quality web applications and love diving de
 ---
 
 ### 📫 Let's Connect  
-💻 [Portfolio](#) | 🐦 [Twitter](#) | 💼 [LinkedIn](#) | 📧 [Email](#)  
+💻 [Portfolio](#) |💼 [LinkedIn](https://www.linkedin.com/in/nitin-kumawat-0b50aa256/) | 📧 [Email](nitin.kumawat.jaipur.in@gmail.com)  
 
 ✨ _Code, Create, Innovate!_ ✨  
